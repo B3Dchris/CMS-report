@@ -1,7 +1,7 @@
 {
-  "version": "1.8.3",
-  "tag": "v1.8.3",
+  "version": "1.8.4",
+  "tag": "v1.8.4",
   "url": "https://raw.githubusercontent.com/B3Dchris/CMS-report/main/CMS.Report.Manager.exe",
-  "sha256": "b07b2fd3ba8c3fa011f69ca3a7772a0ed5262836fac0c92ef0b4859b0ef07cc3",
-  "notes": "Silent, faster update install with a progress bar; the panel reloads itself when the new version is up."
+  "sha256": "bff22e2d9166cf9f342285750194e1059e4f939d61bdfdb54cd66f4455853a6b",
+  "notes": "Shows the installed version, and the panel refreshes itself when the app behind it is replaced."
 }
