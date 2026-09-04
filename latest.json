@@ -1,7 +1,7 @@
 {
-  "version": "1.8.4",
-  "tag": "v1.8.4",
-  "url": "https://raw.githubusercontent.com/B3Dchris/CMS-report/main/CMS.Report.Manager.exe",
-  "sha256": "bff22e2d9166cf9f342285750194e1059e4f939d61bdfdb54cd66f4455853a6b",
-  "notes": "Shows the installed version, and the panel refreshes itself when the app behind it is replaced."
+  "version": "1.8.5",
+  "tag": "v1.8.5",
+  "url": "https://raw.githubusercontent.com/B3Dchris/CMS-report/main/CMS.Report.Manager.exe?v=1.8.5",
+  "sha256": "ea099ec6247e25eec3dcd0757413f28c011c05ce26f65d88b9e05bb4040f2cd9",
+  "notes": "Check for updates moved next to the version, top right. Diagnostics email now carries the full log in the message body - no copy and paste."
 }
