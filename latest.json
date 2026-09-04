@@ -1,7 +1,7 @@
 {
-  "version": "1.8.1",
-  "tag": "v1.8.1",
+  "version": "1.8.2",
+  "tag": "v1.8.2",
   "url": "https://raw.githubusercontent.com/B3Dchris/CMS-report/main/CMS.Report.Manager.exe",
-  "sha256": "adca187a382020bc4754ef1293af1e18ad2cc7b5cf5265650cd615ac1baf1f0c",
-  "notes": "Fixes the update installer: retries the file rename past antivirus locks, and keeps the relaunch helper alive so the new copy starts cleanly."
+  "sha256": "d8d7400cd2aa2383d4b0c03aec1887e2aeed24ea37a1613995aa7b11ea51e3a0",
+  "notes": "Update installer no longer renames the download, so Windows file locks cannot interrupt an update."
 }
