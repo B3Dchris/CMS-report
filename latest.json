@@ -1,7 +1,7 @@
 {
-  "version": "1.8.6",
-  "tag": "v1.8.6",
-  "url": "https://raw.githubusercontent.com/B3Dchris/CMS-report/main/CMS.Report.Manager.exe?v=1.8.6",
-  "sha256": "8e0f4af62014b10d9c901050b17eee33bdac945fee77c1f95f25b011f07d3192",
-  "notes": "Update checks now bypass GitHub's cache, so a new release is seen immediately instead of minutes later."
+  "version": "1.9.0",
+  "tag": "v1.9.0",
+  "url": "https://raw.githubusercontent.com/B3Dchris/CMS-report/main/CMS.Report.Manager.exe?v=1.9.0",
+  "sha256": "8e5f446a693247961cf13b24d2cf065a340d41adcf21857c3958b7d20aff93eb",
+  "notes": "Lead ownership reworked: only walk-ins, phone calls, emails and referrals count as direct; website and portal leads follow their contact centre. The channel quality table now splits each channel by contact centre (e.g. Facebook: Mobilis Auto vs Jetour South Africa)."
 }
