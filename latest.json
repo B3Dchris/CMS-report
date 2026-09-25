@@ -1,7 +1,7 @@
 {
-  "version": "1.9.1",
-  "tag": "v1.9.1",
-  "url": "https://raw.githubusercontent.com/B3Dchris/CMS-report/main/CMS.Report.Manager.exe?v=1.9.1",
-  "sha256": "5d2363972ba4cbaa489c50ff6182e7caa756acd15f87b9600884a9d25d6dd17b",
-  "notes": "Self-update hardened: retries the file swap while Windows is still inspecting the download, keeps the previous version as a fallback, and puts it back automatically if the new build does not start. The panel now says when an update did not apply instead of showing the old version."
+  "version": "1.9.2",
+  "tag": "v1.9.2",
+  "url": "https://raw.githubusercontent.com/B3Dchris/CMS-report/main/CMS.Report.Manager.exe?v=1.9.2",
+  "sha256": "6d1d82c68637c837e89d3b4d21c583536a2d8d142009a90d04d4ea06620f240e",
+  "notes": "New 'Reinstall latest version' button under Diagnostics: downloads the published build again through the checked update path and swaps it in, for when the app is damaged or an update did not apply. Includes the hardened self-update from 1.9.1."
 }
